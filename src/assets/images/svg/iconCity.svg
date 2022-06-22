@@ -1,0 +1,22 @@
+<svg class="e-marker" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 72 130.7" width="36" style="transform: scale(1);">
+  <defs>
+    <clipPath id="circle">
+      <path d="M36,97.4c15,0,27.3-12.2,27.3-27.3c0-15-12.2-27.3-27.3-27.3S8.7,55.1,8.7,70.2S21,97.4,36,97.4z"></path>
+    </clipPath>
+  </defs>
+  <path class="e-marker__marker" d="M60.7,45.4C54.1,38.8,45.3,35.2,36,35.2c-9.3,0-18.1,3.6-24.7,10.3C4.6,52,1,60.8,1,70.2c0,6.3,1.5,11.6,4.6,16.7
+      C8.4,91.3,12.1,95,16,98.9c7.3,7.2,15.5,15.4,19,30.5c0.1,0.5,0.5,0.8,1,0.8s0.9-0.3,1-0.8c3.5-15.1,11.7-23.3,19-30.5
+      c3.9-3.9,7.6-7.6,10.4-12.1c3.1-5.1,4.6-10.3,4.6-16.7C71,60.8,67.4,52,60.7,45.4z M36,97.4c-15,0-27.3-12.2-27.3-27.3
+      S21,42.9,36,42.9c15,0,27.3,12.2,27.3,27.3C63.3,85.2,51,97.4,36,97.4z"></path>
+  <path class="e-marker__circle" d="M36,97.4c15,0,27.3-12.2,27.3-27.3c0-15-12.2-27.3-27.3-27.3S8.7,55.1,8.7,70.2S21,97.4,36,97.4z"></path>
+
+  <path class="e-marker__icon e-marker__icon--city" d="M41.1,68.7V58.5L36,53.4l-5.1,5.1v3.4H20.8v23.7h30.5V68.7H41.1z M27.5,82.2h-3.4v-3.4h3.4V82.2z M27.5,75.4h-3.4
+	V72h3.4V75.4z M27.5,68.7h-3.4v-3.4h3.4V68.7z M37.7,82.2h-3.4v-3.4h3.4V82.2z M37.7,75.4h-3.4V72h3.4V75.4z M37.7,68.7h-3.4v-3.4
+	h3.4V68.7z M37.7,61.9h-3.4v-3.4h3.4V61.9z M47.9,82.2h-3.4v-3.4h3.4V82.2z M47.9,75.4h-3.4V72h3.4V75.4z" transform="translate(0, 0) translate(-36.04999923706055, -69.50000381469727) scale(1, 1) translate(36.04999923706055, 69.50000381469727) rotate(0, 36.04999923706055, 69.50000381469727) skewX(0) skewY(0) "></path>
+
+  <image class="e-marker__image" width="100%" height="100%" clip-path="url(#circle)" xlink:href="https://c1.staticflickr.com/5/4357/36172707494_2b8ea05f04_q.jpg" style="transform: scale(0) translateZ(0px);"></image>
+  <text class="e-marker__text" transform="matrix(1 0 0 1 0 13.9998)" style="opacity: 0;">
+    <tspan x="50%" y="0">Oaxaca</tspan>
+    <tspan x="50%" y="13">City</tspan>
+  </text>
+</svg>
