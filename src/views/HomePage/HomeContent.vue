@@ -9,7 +9,7 @@ export default {
   name: "HomeContent",
   data() {
     return {
-      token: 'YjAwMTc1ZjE1NmQ3NDZhODhmNWFiMjc2Yjk0NmU3YWM=',
+      token: '平台获取',
       basePath: '/api/iserver/services/62afd824e4b0d4b0392aawer/TileServer/TileServer?style=d_xsywtg&srs=EPSG:4490&request=GetStyle&hztk=aGtjLjEyNy4wLjAuMS4xNjUzNTY5NDQ4NDg5.4C7E9E863934007F89AFD11E5AB380A04B22F10C',
       style: null,
     };
@@ -19,6 +19,7 @@ export default {
   },
   created() {
     localStorage.setItem('token', this.token);
+    console.log('token', this.token)
     this.style = `${window.location.origin}${this.basePath}&uc_access_token=${this.token}`
   },
   beforeDestroy() {

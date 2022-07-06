@@ -1,7 +1,7 @@
 {
-  "name": "maap",
-  "version": "1.0.0",
-  "description": "A Vue.js project",
+  "name": "map",
+  "version": "1.0.1",
+  "description": "mapbox",
   "author": "'guoao' <346181755@qq.com>",
   "private": true,
   "scripts": {
@@ -13,7 +13,7 @@
     "@supermap/vue-iclient-mapboxgl": "^10.0.1",
     "less-loader": "^4.1.0",
     "lodash": "^4.17.21",
-    "mapbox-onemap-js": "0.0.3",
+    "mapbox-onemap-js": "0.0.4",
     "vue": "^2.5.2",
     "vue-hot-reload-api": "^2.3.4",
     "vue-router": "^3.0.1"
